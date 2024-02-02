@@ -8,5 +8,5 @@ It is based on `Spring`, `SpringMVC` and `MyBatis` framework with front-end refe
 
 > How to run?
 
-You can deploy the front-end code through `VSCode` to the `Node` server, the back-end code through `IDEA` to the `Tomcat` 10 + version server.
+You can deploy the front-end code through `VSCode` to the `Node` server, the back-end code through `IDEA` to the `Tomcat` 10 + version server. But the ***jdbc.user & jdbc.password*** at _ssm-integration-todolist-02/src/main/resource/jdbc.properties_ should be revised firstly.
 
